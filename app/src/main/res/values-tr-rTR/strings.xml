@@ -8,4 +8,5 @@
     <string name="preview">Önizlenme</string>
     <string name="go">Koş</string>
     <string name="msgtoast">Language has changed to English</string>
+    <string name="thanks_message">Siparişiniz için teşekkürler!</string>
 </resources>

@@ -8,8 +8,6 @@ data class MugOmlette(
     override val imageRes: Int = R.drawable.mug_omlette
 ) : RecipeBase {
     override fun ingredientsFor(servings: Int) = listOf(
-        "${servings*2} egg",
-        "${servings*2} tbsp milk",
-        "cheese, salt"
+        "${servings}x egg", "Salt", "Pepper", "Cheese"
     )
 }
