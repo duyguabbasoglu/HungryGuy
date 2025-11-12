@@ -1,9 +1,12 @@
-package com.namesurname.hw1.model
-import com.example.duyguabbasoglu_hw1.model.RecipeBase
+package com.example.duyguabbasoglu_hw1
+
+import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
 
 @Parcelize
-data class Order(
-    val recipe: RecipeBase,
-    val servings: Int
-) : android.os.Parcelable
+data class RecipeOrder(
+    val recipeName: String,
+    val imageRes: Int,
+    val servings: Int,
+    val note: String? = null
+) : Parcelable
