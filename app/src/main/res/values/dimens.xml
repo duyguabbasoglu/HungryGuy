@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="imgwidth">250px</dimen>
+    <dimen name="imgheigth">200px</dimen>
+</resources>

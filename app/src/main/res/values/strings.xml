@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DuyguAbbasoglu_HW1</string>
+    <string name="txtApp">HUNGRY GUY</string>
+    <string name="txtAsk">What do you want to eat today?</string>
+
+    <string name="purpose">Budget-friendly dorm recipes</string>
+    <string name="preview">Recipe preview</string>
+    <string name="go">Go</string>
+    <string name="msgtoast">Dil Türkçe olarak değiştirildi.</string>
+</resources>

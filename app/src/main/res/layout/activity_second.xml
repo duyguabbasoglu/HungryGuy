@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="@dimen/margin"
+    android:background="@color/bgcolor">
+
+    <TextView
+        android:id="@+id/txtServings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Servings: 1"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imgDish"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:src="@drawable/logo"
+        android:layout_gravity="center_horizontal" />
+
+    <SeekBar
+        android:id="@+id/seekServings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="10"
+        android:progress="1"/>
+</LinearLayout>

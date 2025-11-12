@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DuyguAbbasoglu_HW1</string>
+    <string name="txtApp">ACIKTIM USTA</string>
+    <string name="txtAsk">Bugün ne yiyoruz?</string>
+
+    <string name="purpose">Bütçe dostu yurt tarifleri</string>
+    <string name="preview">Önizlenme</string>
+    <string name="go">Koş</string>
+    <string name="msgtoast">Language has changed to English</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipes">
+        <item>BIM\'den İyi Çikolatalı Kurabiye</item>
+        <item>Kettle’da Makarna (Masterchef Tarifi)</item>
+        <item>Mikrodalgada Fakir Kupa Omlet</item>
+        <item>Bağrı Yanık OnePot Tost</item>
+    </string-array>
+</resources>

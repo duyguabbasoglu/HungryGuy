@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipes">
+        <item>Burnt Chocolate Chip Cookies</item>
+        <item>Kettle Tuna Pasta</item>
+        <item>Microwave Mug Omlette</item>
+        <item>One Pot Toaster Quesadilla</item>
+    </string-array>
+</resources>
