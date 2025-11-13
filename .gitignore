@@ -1,20 +1,15 @@
-# Gradle
 .gradle/
 build/
 **/build/
-!gradle/wrapper/gradle-wrapper.jar
-
-# IntelliJ/Android Studio
-.idea/
+local.properties
 *.iml
-.local.properties
-
-# Logs
+.idea/
+.cxx/
+/.navigation/
+captures/
+.externalNativeBuild/
 *.log
-
-# Misc
 .DS_Store
-
-# Keystore (eğer varsa, KESİNLİKLE commit etme)
+Thumbs.db
 *.jks
 *.keystore
