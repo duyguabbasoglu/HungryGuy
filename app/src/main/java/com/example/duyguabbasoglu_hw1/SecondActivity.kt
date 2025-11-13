@@ -37,7 +37,6 @@ class SecondActivity : AppCompatActivity() {
         val parcel: Recipe? = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
             intent.getParcelableExtra("recipe", Recipe::class.java)
         } else {
-            @Suppress("DEPRECATION")
             intent.getParcelableExtra("recipe")
         }
         if (parcel != null) {
