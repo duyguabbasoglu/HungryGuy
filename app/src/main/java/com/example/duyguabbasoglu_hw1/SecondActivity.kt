@@ -69,7 +69,7 @@ class SecondActivity : AppCompatActivity() {
             override fun onStopTrackingTouch(sb: SeekBar?) {}
         })
 
-        binding.buttonShowDialog.text = "Custom dialog"
+        binding.buttonShowDialog.text = "Serving Size"
         binding.buttonShowDialog.setOnClickListener { openCustomDialog() }
 
         binding.buttonShowAlert.setOnClickListener {
