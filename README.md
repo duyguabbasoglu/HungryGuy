@@ -1,9 +1,8 @@
 # HungryGuy (AcıktımUsta)
 
-Her bütçeye ve her kişi sayısına uygun öğrenci evi tarifleri , hızlı ve basit.
+Her bütçeye uygun, hızlı ve basit öğrenci evi tarifleri.
 
-**Main Features:** 
-3 activity (Main/Second/Third), intent (primitive + Parcelable), result dönüşü, custom dialog (servings), seekbar (rate), toast/snackbar, +EN dil desteği.
+**Main Features:** 3 activities, intent (primitive + Parcelable), result handling, custom dialog, seekbar (rate), toast/snackbar, TR–EN language switch.
 
-**Demo:**
-https://github.com/user-attachments/assets/e69f56cc-8232-4f2b-bf5f-c905c1c0d8bd
+### Demo
+<video src="https://github.com/user-attachments/assets/e69f56cc-8232-4f2b-bf5f-c905c1c0d8bd" controls width="300"></video>
